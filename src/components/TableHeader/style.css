@@ -1,0 +1,7 @@
+#name-heading {
+    text-decoration: underline;
+}
+
+#name-heading:hover {
+    cursor: pointer;
+}

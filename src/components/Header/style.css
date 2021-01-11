@@ -1,0 +1,8 @@
+.header {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    background-color: darkgreen;
+    border-bottom: solid red;
+}
